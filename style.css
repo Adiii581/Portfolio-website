@@ -232,6 +232,7 @@ nav {
     border: 1px solid var(--primary-color);
     margin-bottom: 1.5rem;
     transition: background-color 0.3s, color 0.3s;
+    text-align: center;
 }
 
 .btn-small:hover {
