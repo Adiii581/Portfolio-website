@@ -56,9 +56,14 @@ section {
     text-align: center;
 }
 
+/* === EDIT THIS SECTION === */
 h1, h2, h3 {
-    margin-bottom: 1rem;
+    /* I've reduced the margin from 1rem to 0.5rem */
+    /* This will pull the content below the titles closer. */
+    margin-bottom: 0.5rem;
 }
+/* ========================= */
+
 
 h1 { font-size: 3rem; }
 h2 { font-size: 2.5rem; }
