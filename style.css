@@ -141,6 +141,7 @@ nav {
 
 /* 3. Hero Section */
 .hero {
+    min-height: 40vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
