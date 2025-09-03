@@ -56,7 +56,7 @@ body {
 /* I've increased the padding here to create a larger, consistent */
 /* space above and below every section title. */
 section {
-    padding: 6rem 0; /* Changed from 4rem to 6rem */
+    padding: 8rem 0; /* Changed from 4rem to 6rem */
     text-align: center;
 }
 /* ================= */
